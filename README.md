@@ -1,2 +1,2 @@
-# machineLearningLabs
-temp repo for labs to come
+# Machine Learning Labs
+A home for our precious labs.
